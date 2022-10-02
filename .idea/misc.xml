@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/spring-datajpa-postgresql" />
     <file type="web" url="file://$PROJECT_DIR$/spring-elasticsearch" />
     <file type="web" url="file://$PROJECT_DIR$/spring-mongo-rest-api" />
   </component>
@@ -11,6 +12,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/spring-mongo-rest-api/pom.xml" />
         <option value="$PROJECT_DIR$/spring-elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-datajpa-postgresql/pom.xml" />
       </list>
     </option>
   </component>
