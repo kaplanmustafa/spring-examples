@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/spring-boot-api-doc" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-dockerization" />
     <file type="web" url="file://$PROJECT_DIR$/spring-boot-rabbitmq" />
     <file type="web" url="file://$PROJECT_DIR$/spring-datajpa-postgresql" />
     <file type="web" url="file://$PROJECT_DIR$/spring-elasticsearch" />
@@ -17,6 +18,7 @@
         <option value="$PROJECT_DIR$/spring-datajpa-postgresql/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-api-doc/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-dockerization/pom.xml" />
       </list>
     </option>
   </component>
