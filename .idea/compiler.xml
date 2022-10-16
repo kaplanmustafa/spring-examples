@@ -9,15 +9,17 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-elasticsearch" />
         <module name="spring-boot-dockerization" />
+        <module name="spring-boot-rabbitmq" />
+        <module name="spring-boot-aop" />
         <module name="spring-mongo-rest-api" />
         <module name="spring-datajpa-postgresql" />
-        <module name="spring-boot-rabbitmq" />
         <module name="spring-boot-api-doc" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-aop" options="-parameters" />
       <module name="spring-boot-api-doc" options="-parameters" />
       <module name="spring-boot-dockerization" options="-parameters" />
       <module name="spring-boot-rabbitmq" options="-parameters" />
